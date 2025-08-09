@@ -25,10 +25,6 @@ Notebook bao gồm các bước:
 
 ## Kết quả minh họa
 Ảnh gốc và ảnh sau khi thresholding sẽ được hiển thị trực tiếp trong notebook.
-Ví dụ với `test1.tif` và `test2.tif`:
-
-![Test1](test1.tif)
-![Test2](test2.tif)
 
 ## Dataset
 - test1.tif
